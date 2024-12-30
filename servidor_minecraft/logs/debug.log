@@ -3227,3 +3227,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [30Dec2024 03:31:35.555] [Server thread/DEBUG] [mixin/]: emotecraft-arch.mixins.json:ServerPlayTrackerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [30Dec2024 03:36:35.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 03:36:35.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:41:35.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:41:35.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:46:35.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:46:35.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
