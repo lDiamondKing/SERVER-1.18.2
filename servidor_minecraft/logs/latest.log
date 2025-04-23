@@ -347,3 +347,13 @@
 [23Apr2025 05:03:48.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tell -> hola<--[HERE]
 [23Apr2025 05:04:01.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [23Apr2025 05:04:01.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tell->hola<--[HERE]
+[23Apr2025 05:05:08.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[23Apr2025 05:05:08.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: w -> msg<--[HERE]
+[23Apr2025 05:05:42.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player is required to run this command here
+[23Apr2025 05:06:09.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made DiamondKing a server operator
+[23Apr2025 05:06:22.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made DiamondKing no longer a server operator
+[23Apr2025 05:06:32.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made DiamondKingX a server operator
+[23Apr2025 05:07:31.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Set own game mode to Creative Mode]
+[23Apr2025 05:07:58.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seed: [1678940299535545063]
+[23Apr2025 05:08:10.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[23Apr2025 05:08:10.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wasa<--[HERE]
