@@ -251,3 +251,99 @@
 [23Apr2025 04:52:35.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
 [23Apr2025 04:52:35.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp DiamondKingX<--[HERE]
 [23Apr2025 04:52:40.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> hola
+[23Apr2025 04:55:15.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Invalid name or UUID
+[23Apr2025 04:55:15.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: msg <DiamondKingd> <message><--[HERE]
+[23Apr2025 04:55:39.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Invalid name or UUID
+[23Apr2025 04:55:39.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: msg <DiamondKingd> <hola><--[HERE]
+[23Apr2025 04:55:51.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Invalid name or UUID
+[23Apr2025 04:55:51.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <DiamondKingd> <message><--[HERE]
+[23Apr2025 04:56:06.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[23Apr2025 04:56:20.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DiamondKingX: hola
+[23Apr2025 04:56:35.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[23Apr2025 04:56:35.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
+[23Apr2025 04:56:35.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
+[23Apr2025 04:56:35.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
+[23Apr2025 04:56:35.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[23Apr2025 04:56:35.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[23Apr2025 04:56:35.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[23Apr2025 04:56:35.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[23Apr2025 04:56:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[23Apr2025 04:56:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[23Apr2025 04:56:35.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
+[23Apr2025 04:56:35.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[23Apr2025 04:56:35.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[23Apr2025 04:57:03.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[23Apr2025 04:57:03.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: w<--[HERE]
+[23Apr2025 04:57:52.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[23Apr2025 04:57:52.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tell -> hola<--[HERE]
+[23Apr2025 04:58:36.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[23Apr2025 04:58:36.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tell ->hola<--[HERE]
+[23Apr2025 05:03:48.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected whitespace to end one argument, but found trailing data
+[23Apr2025 05:03:48.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tell -> hola<--[HERE]
+[23Apr2025 05:04:01.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[23Apr2025 05:04:01.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tell->hola<--[HERE]
