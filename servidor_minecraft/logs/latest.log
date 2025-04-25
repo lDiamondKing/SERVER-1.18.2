@@ -164,3 +164,6 @@
 [25Apr2025 00:25:08.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (68.892s)! For help, type "help"
 [25Apr2025 00:25:08.685] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [25Apr2025 00:25:28.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37a41569[id=<null>,name=DiamondKingX,properties={},legacy=false] (/127.249.248.84:60637) lost connection: Disconnected
+[25Apr2025 00:35:58.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[25Apr2025 00:35:58.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: msg<--[HERE]
+[25Apr2025 00:36:02.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@95f4801[id=<null>,name=DiamondKingX,properties={},legacy=false] (/127.249.248.84:36357) lost connection: Disconnected
