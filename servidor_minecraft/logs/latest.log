@@ -96,3 +96,9 @@
 [25Apr2025 18:55:59.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 fell from a high place
 [25Apr2025 19:01:50.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angelo2046 lost connection: Timed out
 [25Apr2025 19:01:50.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 left the game
+[25Apr2025 19:03:02.164] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50385f54
+[25Apr2025 19:03:02.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angelo2046[/127.231.16.48:39181] logged in with entity id 5864 at (-216.55106881043343, 102.0, -0.9797206105107215)
+[25Apr2025 19:03:02.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 joined the game
+[25Apr2025 19:04:48.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Set the time to 1000]
+[25Apr2025 19:06:05.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Acquire Hardware]
+[25Apr2025 19:12:05.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has completed the challenge [Cover Me in Debris]
