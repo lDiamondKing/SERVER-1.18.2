@@ -501,3 +501,50 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Apr2025 18:42:18.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 joined the game
 [25Apr2025 18:42:33.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [25Apr2025 18:42:33.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ip<--[HERE]
+[25Apr2025 18:42:57.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Stone Age]
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[25Apr2025 18:43:02.411] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[25Apr2025 18:43:02.453] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[25Apr2025 18:43:02.504] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69b6261c
+[25Apr2025 18:43:02.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.243.149.166:54393] logged in with entity id 502 at (-285.195727319457, 90.0, 30.40386082038864)
+[25Apr2025 18:43:02.510] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4c653cb4 into net.minecraft.network.Connection@5ba627e3
+[25Apr2025 18:43:02.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[25Apr2025 18:43:11.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Getting an Upgrade]
+[25Apr2025 18:43:14.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 18:43:14.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 18:43:34.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Teleported DiamondKingX to angelo2046]
+[25Apr2025 18:43:46.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was blown up by Creeper
+[25Apr2025 18:44:19.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Stone Age]
+[25Apr2025 18:44:23.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was blown up by Creeper
+[25Apr2025 18:44:41.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Monster Hunter]
+[25Apr2025 18:45:09.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Cover Me in Debris]
+[25Apr2025 18:46:16.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was slain by DiamondKingX
+[25Apr2025 18:46:31.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Teleported DiamondKingX to angelo2046]
+[25Apr2025 18:46:59.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Teleported angelo2046 to DiamondKingX]
+[25Apr2025 18:47:13.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Spooky Scary Skeleton]
+[25Apr2025 18:47:31.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Ice Bucket Challenge]
+[25Apr2025 18:48:14.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 18:48:14.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 18:50:55.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Teleported angelo2046 to DiamondKingX]
+[25Apr2025 18:51:10.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Spooky Scary Skeleton]
+[25Apr2025 18:51:36.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Set spawn point to -214, 102, -1 [0.0] in minecraft:overworld for angelo2046]
+[25Apr2025 18:52:15.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was doomed to fall by DiamondKingX
+[25Apr2025 18:53:10.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Getting an Upgrade]
+[25Apr2025 18:53:14.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 18:53:14.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 18:54:26.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Take Aim]
+[25Apr2025 18:54:31.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was shot by DiamondKingX
+[25Apr2025 18:54:33.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-217, y=101, z=0}
+[25Apr2025 18:54:59.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DiamondKingX: Set the time to 1000]
+[25Apr2025 18:55:59.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 fell from a high place
+[25Apr2025 18:58:14.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 18:58:14.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 19:01:50.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angelo2046 lost connection: Timed out
+[25Apr2025 19:01:50.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 left the game
