@@ -189,3 +189,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [19Jul2025 03:42:58.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [19Jul2025 03:43:04.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [This Must be a Sign!]
 [19Jul2025 03:43:54.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[19Jul2025 03:45:18.683] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[19Jul2025 03:46:16.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[19Jul2025 03:46:39.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has reached the goal [Skyslime Island]
+[19Jul2025 03:46:55.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Diamonds!]
+[19Jul2025 03:47:07.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Acquire Hardware]
+[19Jul2025 03:47:07.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Mine? Mine? Mine?]
+[19Jul2025 03:47:38.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
+[19Jul2025 03:48:11.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[19Jul2025 03:48:21.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was slain by PredatorX_2000
+[19Jul2025 03:48:26.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by angelo2046
+[19Jul2025 03:48:47.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Who You Gonna Call?]
+[19Jul2025 03:48:51.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by angelo2046
+[19Jul2025 03:48:54.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Suit Up]
+[19Jul2025 03:48:59.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was slain by PredatorX_2000
+[19Jul2025 03:49:06.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Isn't It Iron Pick]
+[19Jul2025 03:49:55.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[19Jul2025 03:50:26.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:50:50.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:02.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:08.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:09.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 fell from a high place
+[19Jul2025 03:51:23.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:35.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:42.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:42.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:52.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:56.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:51:59.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:02.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:04.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:07.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:10.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:12.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:15.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:52:16.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by Ghost
+[19Jul2025 03:52:19.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angelo2046 moved too quickly! 0.0,-17.125934517960097,0.0
+[19Jul2025 03:52:41.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:53:05.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported angelo2046 to DiamondKingX
+[19Jul2025 03:53:43.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[19Jul2025 03:55:15.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Mine? Mine? Mine?]
+[19Jul2025 03:56:04.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Book of Monsters]
+[19Jul2025 03:57:50.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 has made the advancement [Sweet Dreams]
+[19Jul2025 04:02:15.105] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69022231
+[19Jul2025 04:02:15.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36535] logged in with entity id 16235 at (969.8024676008574, 64.0, -154.14241059760388)
+[19Jul2025 04:02:15.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[19Jul2025 04:03:08.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16999, l='ServerLevel[world]', x=1198.61, y=79.76, z=-225.41] died, message: 'Villager was slain by Fire Dragon'
+[19Jul2025 04:03:53.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Suit Up]
+[19Jul2025 04:04:09.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Ice Bucket Challenge]
+[19Jul2025 04:04:16.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Jul2025 04:04:36.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Jul2025 04:04:46.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19269, l='ServerLevel[world]', x=1576.50, y=54.00, z=315.50]
+[19Jul2025 04:04:54.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
