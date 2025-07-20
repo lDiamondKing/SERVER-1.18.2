@@ -656,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-20 17:53:17 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-19 00:49:09 +0000"
@@ -731,6 +737,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_boots": {
     "criteria": {
       "has_req": "2025-07-19 01:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-20 17:53:17 +0000"
     },
     "done": true
   },
