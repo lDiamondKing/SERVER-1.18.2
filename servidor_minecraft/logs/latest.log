@@ -1,57 +1,57 @@
-[20Jul2025 01:55:11.672] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[20Jul2025 01:55:11.679] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
-[20Jul2025 01:55:13.329] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-1.18.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[20Jul2025 01:55:14.183] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[20Jul2025 01:55:14.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[20Jul2025 01:55:14.189] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[20Jul2025 01:55:14.192] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[20Jul2025 01:55:14.439] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[20Jul2025 01:55:17.963] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Jul2025 01:55:18.161] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[20Jul2025 01:55:18.170] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Jul2025 01:55:37.987] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
-[20Jul2025 01:55:38.307] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[20Jul2025 01:55:38.307] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[20Jul2025 01:55:51.131] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[20Jul2025 01:55:52.446] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[20Jul2025 01:55:52.448] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[20Jul2025 01:55:53.457] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
-[20Jul2025 01:55:53.460] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
-[20Jul2025 01:55:53.461] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
-[20Jul2025 01:55:53.615] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[20Jul2025 01:55:53.618] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[20Jul2025 01:55:55.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[20Jul2025 01:55:56.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
-[20Jul2025 01:55:56.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.18/thedragonlib-updater.json
-[20Jul2025 01:55:56.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.18.1-1.0.0 Target: null
-[20Jul2025 01:55:56.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Jul2025 01:55:56.370] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 67 ms
-[20Jul2025 01:55:56.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[20Jul2025 01:55:56.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.18/update.json
-[20Jul2025 01:55:56.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: UP_TO_DATE Current: 1.18.2-18.3.0 Target: null
-[20Jul2025 01:56:01.356] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Jul2025 01:56:05.455] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2360!/assets/.mcassetsroot' uses unexpected schema
-[20Jul2025 01:56:05.457] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2360!/data/.mcassetsroot' uses unexpected schema
-[20Jul2025 01:56:05.820] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 149 ms
-[20Jul2025 01:56:10.759] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20Jul2025 01:56:10.765] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20Jul2025 01:56:10.772] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20Jul2025 01:56:10.773] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20Jul2025 01:56:10.774] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20Jul2025 01:56:10.781] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[20Jul2025 01:56:10.783] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[20Jul2025 01:56:10.784] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
-[20Jul2025 01:56:10.787] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
-[20Jul2025 01:56:22.859] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[20Jul2025 01:56:22.886] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
-[20Jul2025 01:56:22.928] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
-[20Jul2025 01:56:22.950] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
-[20Jul2025 01:56:22.952] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[20Jul2025 01:56:23.055] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[20Jul2025 01:56:23.062] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
-[20Jul2025 01:56:23.146] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[20Jul2025 01:56:23.184] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
-[20Jul2025 01:56:23.185] [Worker-Main-2/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
+[20Jul2025 02:47:36.688] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[20Jul2025 02:47:36.695] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[20Jul2025 02:47:37.243] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-1.18.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[20Jul2025 02:47:37.835] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[20Jul2025 02:47:37.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[20Jul2025 02:47:37.843] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[20Jul2025 02:47:37.850] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[20Jul2025 02:47:38.029] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Jul2025 02:47:42.349] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Jul2025 02:47:42.558] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[20Jul2025 02:47:42.566] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Jul2025 02:48:00.148] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
+[20Jul2025 02:48:00.536] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[20Jul2025 02:48:00.537] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[20Jul2025 02:48:12.031] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[20Jul2025 02:48:13.508] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[20Jul2025 02:48:13.511] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[20Jul2025 02:48:14.503] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
+[20Jul2025 02:48:14.505] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
+[20Jul2025 02:48:14.506] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
+[20Jul2025 02:48:14.674] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[20Jul2025 02:48:14.678] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[20Jul2025 02:48:15.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[20Jul2025 02:48:16.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[20Jul2025 02:48:16.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.18/thedragonlib-updater.json
+[20Jul2025 02:48:16.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.18.1-1.0.0 Target: null
+[20Jul2025 02:48:16.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Jul2025 02:48:16.891] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 215 ms
+[20Jul2025 02:48:17.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[20Jul2025 02:48:17.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.18/update.json
+[20Jul2025 02:48:17.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: UP_TO_DATE Current: 1.18.2-18.3.0 Target: null
+[20Jul2025 02:48:23.656] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Jul2025 02:48:27.563] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2360!/assets/.mcassetsroot' uses unexpected schema
+[20Jul2025 02:48:27.564] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SERVER-1.18.2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2360!/data/.mcassetsroot' uses unexpected schema
+[20Jul2025 02:48:27.861] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 151 ms
+[20Jul2025 02:48:33.336] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20Jul2025 02:48:33.339] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20Jul2025 02:48:33.347] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20Jul2025 02:48:33.350] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20Jul2025 02:48:33.351] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20Jul2025 02:48:33.361] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[20Jul2025 02:48:33.365] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[20Jul2025 02:48:33.369] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+[20Jul2025 02:48:33.371] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
+[20Jul2025 02:48:44.684] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[20Jul2025 02:48:44.713] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[20Jul2025 02:48:44.742] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[20Jul2025 02:48:44.761] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[20Jul2025 02:48:44.763] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[20Jul2025 02:48:44.847] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[20Jul2025 02:48:44.852] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[20Jul2025 02:48:44.947] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[20Jul2025 02:48:44.999] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[20Jul2025 02:48:45.001] [Worker-Main-2/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
 com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.21-universal.jar%2365!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.21-universal.jar%2365!/:?]
@@ -98,106 +98,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[20Jul2025 01:56:23.236] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[20Jul2025 01:56:25.391] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2219 advancements
-[20Jul2025 01:56:25.418] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 68 dynamic modifiers and 15 modifier redirects in 22.140896 ms
-[20Jul2025 01:56:25.487] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 5 modifier tags for 20 modifiers in 68.128265 ms
-[20Jul2025 01:56:25.488] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 0.978707 ms
-[20Jul2025 01:56:25.499] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 48 spilling fluids in 10.546606 ms
-[20Jul2025 01:56:25.502] [Worker-Main-2/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 0.916671 ms
-[20Jul2025 01:56:25.556] [Worker-Main-2/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 96 Soft Fluids
-[20Jul2025 01:56:25.596] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 18.438948 ms
-[20Jul2025 01:56:25.734] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 137.86531 ms
-[20Jul2025 01:56:25.903] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 167.77359 ms
-[20Jul2025 01:56:26.097] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 193.62529 ms
-[20Jul2025 01:56:26.132] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 33 tool definitions in 32.361786 ms
-[20Jul2025 01:56:26.146] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 11.284193 ms
-[20Jul2025 01:56:28.854] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[20Jul2025 01:56:29.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[20Jul2025 01:56:29.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Jul2025 01:56:29.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Jul2025 01:56:29.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Jul2025 01:56:29.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Jul2025 01:56:29.739] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Jul2025 01:56:29.963] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Jul2025 01:56:29.965] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Jul2025 01:56:29.966] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Jul2025 01:56:29.967] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Jul2025 01:56:30.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Jul2025 01:56:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Jul2025 01:56:43.109] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:43.307] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:43.328] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:43.431] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:43.452] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:43.470] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:44.431] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:44.445] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:45.122] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:45.296] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20Jul2025 01:56:45.396] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:45.795] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:46.304] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:47.359] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:47.365] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:47.795] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:48.293] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:48.797] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:49.488] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:49.793] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jul2025 01:56:50.300] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[20Jul2025 01:56:50.794] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[20Jul2025 01:56:51.293] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[20Jul2025 01:56:51.792] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[20Jul2025 01:56:52.298] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[20Jul2025 01:56:52.794] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[20Jul2025 01:56:53.292] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[20Jul2025 01:56:53.815] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[20Jul2025 01:56:54.463] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[20Jul2025 01:56:54.794] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20Jul2025 01:56:55.299] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[20Jul2025 01:56:55.842] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[20Jul2025 01:56:56.292] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[20Jul2025 01:56:57.341] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[20Jul2025 01:56:57.374] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[20Jul2025 01:56:57.796] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[20Jul2025 01:56:58.990] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 18198 ms
-[20Jul2025 01:56:58.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.990s)! For help, type "help"
-[20Jul2025 01:56:59.398] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Jul2025 01:56:59.420] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[20Jul2025 01:56:59.420] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[20Jul2025 01:56:59.421] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[20Jul2025 02:00:02.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30237d0c
-[20Jul2025 02:00:02.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:59049] logged in with entity id 66 at (1146.300000011921, 61.15581884420971, 2565.018911847183)
-[20Jul2025 02:00:02.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[20Jul2025 02:00:05.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
-[20Jul2025 02:00:06.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:00:10.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Fire Dragon
-[20Jul2025 02:00:23.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
-[20Jul2025 02:00:53.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
-[20Jul2025 02:03:37.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.16681914276227872,-2.504916445014871,9.794412302088404
-[20Jul2025 02:05:34.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [The Desert Swimmers]
-[20Jul2025 02:07:26.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
-[20Jul2025 02:07:34.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Fire Dragon
-[20Jul2025 02:07:48.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
-[20Jul2025 02:08:47.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 1270.500000, 125.000000, 2500.500000
-[20Jul2025 02:10:34.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:10:50.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:10:50.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:10:50.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:10:51.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:11:04.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:11:12.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:11:16.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:11:51.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
-[20Jul2025 02:12:06.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:12:06.801] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:12:15.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:12:20.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[20Jul2025 02:13:19.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55ae13fe
-[20Jul2025 02:13:19.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:42031] logged in with entity id 10972 at (1219.9205098942941, 59.97114329537944, -352.05467480323136)
-[20Jul2025 02:13:19.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[20Jul2025 02:13:22.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 4.020005452115129,-3.5143294551172772,8.857561805987643
-[20Jul2025 02:13:22.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
-[20Jul2025 02:14:57.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[20Jul2025 02:15:20.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[20Jul2025 02:48:45.051] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[20Jul2025 02:48:47.519] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2219 advancements
+[20Jul2025 02:48:47.548] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 68 dynamic modifiers and 15 modifier redirects in 21.636808 ms
+[20Jul2025 02:48:47.629] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 5 modifier tags for 20 modifiers in 80.710915 ms
+[20Jul2025 02:48:47.630] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 1.230397 ms
+[20Jul2025 02:48:47.641] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 48 spilling fluids in 9.976501 ms
+[20Jul2025 02:48:47.644] [Worker-Main-2/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 2.295003 ms
+[20Jul2025 02:48:47.701] [Worker-Main-2/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 96 Soft Fluids
+[20Jul2025 02:48:47.744] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 23.003376 ms
+[20Jul2025 02:48:47.815] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 70.91815 ms
+[20Jul2025 02:48:47.898] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 82.07632 ms
+[20Jul2025 02:48:48.012] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 113.200226 ms
+[20Jul2025 02:48:48.039] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 33 tool definitions in 25.810747 ms
+[20Jul2025 02:48:48.054] [Worker-Main-2/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 12.789803 ms
+[20Jul2025 02:48:50.778] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[20Jul2025 02:48:51.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[20Jul2025 02:48:51.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Jul2025 02:48:51.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Jul2025 02:48:51.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Jul2025 02:48:52.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Jul2025 02:48:52.241] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Jul2025 02:48:52.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Jul2025 02:48:52.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Jul2025 02:48:52.501] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Jul2025 02:48:52.502] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Jul2025 02:48:52.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Jul2025 02:49:03.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Jul2025 02:49:05.677] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20Jul2025 02:49:06.039] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:06.060] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:06.072] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:06.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:06.101] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:06.113] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:06.370] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:07.083] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:07.625] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:07.877] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:08.363] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:08.867] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:09.918] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:09.932] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:10.363] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:10.860] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:10.898] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20Jul2025 02:49:11.361] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jul2025 02:49:11.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[20Jul2025 02:49:12.364] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[20Jul2025 02:49:12.861] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[20Jul2025 02:49:13.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[20Jul2025 02:49:13.861] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[20Jul2025 02:49:14.367] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[20Jul2025 02:49:14.861] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[20Jul2025 02:49:15.373] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[20Jul2025 02:49:15.912] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[20Jul2025 02:49:16.386] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[20Jul2025 02:49:16.884] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[20Jul2025 02:49:17.409] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[20Jul2025 02:49:17.860] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[20Jul2025 02:49:19.046] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[20Jul2025 02:49:19.077] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[20Jul2025 02:49:19.980] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16620 ms
+[20Jul2025 02:49:19.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.458s)! For help, type "help"
+[20Jul2025 02:49:20.059] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Jul2025 02:49:20.062] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[20Jul2025 02:49:20.064] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[20Jul2025 02:49:20.064] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[20Jul2025 02:49:57.108] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7828eb10
+[20Jul2025 02:49:57.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:36229] logged in with entity id 66 at (2095.126042343875, 63.796735600668704, -549.8842753662203)
+[20Jul2025 02:49:57.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[20Jul2025 02:50:20.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23356ms or 467 ticks behind
+[20Jul2025 02:50:47.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Jul2025 02:50:47.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dificultily easy<--[HERE]
+[20Jul2025 02:50:58.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[20Jul2025 02:51:05.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The difficulty has been set to Easy
