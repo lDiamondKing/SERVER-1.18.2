@@ -205,3 +205,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [20Jul2025 19:09:57.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a9afac7
 [20Jul2025 19:09:57.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:35669] logged in with entity id 57258 at (2663.755429880763, 63.18499291204863, 7334.738211224942)
 [20Jul2025 19:09:57.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[20Jul2025 19:13:06.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Jul2025 19:13:23.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[20Jul2025 19:15:10.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.25416302488110887
+[20Jul2025 19:15:10.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.6105887071676079
+[20Jul2025 19:15:10.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.6573166807011148
+[20Jul2025 19:15:10.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.6863266491345712
+[20Jul2025 19:15:11.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.6106622155466539
+[20Jul2025 19:27:54.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Who is Cutting Onions?]
+[20Jul2025 19:31:01.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
