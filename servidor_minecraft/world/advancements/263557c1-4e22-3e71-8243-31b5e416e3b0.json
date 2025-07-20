@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_mace_alt": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-19 00:55:34 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-20 05:13:38 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shapeless/wooden_rod_adv": {
     "criteria": {
       "has_req": "2025-07-19 00:54:15 +0000"
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_mace": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 01:20:26 +0000"
@@ -254,6 +272,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_mace_alt": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
     },
     "done": true
   },
@@ -605,6 +629,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-07-20 05:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-19 00:54:19 +0000"
@@ -833,6 +863,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_mace_alt": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-19 00:58:08 +0000"
@@ -1043,6 +1079,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_mace": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-19 02:20:20 +0000"
@@ -1223,12 +1265,19 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_mace": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-20 02:37:47 +0000",
       "minecraft:mushroom_fields": "2025-07-20 03:41:18 +0000",
       "minecraft:taiga": "2025-07-20 02:36:22 +0000",
       "minecraft:birch_forest": "2025-07-19 00:57:16 +0000",
+      "minecraft:windswept_hills": "2025-07-20 05:27:17 +0000",
       "minecraft:wooded_badlands": "2025-07-19 06:06:19 +0000",
       "minecraft:badlands": "2025-07-19 06:11:47 +0000",
       "minecraft:beach": "2025-07-19 00:53:40 +0000",
@@ -1250,6 +1299,7 @@
       "minecraft:jungle": "2025-07-19 04:10:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-20 02:36:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 01:07:44 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-20 05:27:22 +0000",
       "minecraft:plains": "2025-07-19 02:07:04 +0000"
     },
     "done": false
@@ -1668,6 +1718,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-07-20 05:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 06:44:27 +0000"
@@ -2028,6 +2084,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-20 05:36:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-19 01:11:19 +0000"
@@ -2163,6 +2225,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 03:23:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-07-20 05:46:38 +0000"
     },
     "done": true
   },
@@ -2337,6 +2405,12 @@
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2025-07-19 00:58:08 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_mace_alt": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
     },
     "done": true
   },
@@ -2640,6 +2714,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_mace_alt": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-07-19 01:50:17 +0000"
@@ -2772,6 +2852,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_mace": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/slime/slime_leggings": {
     "criteria": {
       "has_req": "2025-07-19 02:27:38 +0000"
@@ -2805,6 +2891,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-07-19 00:57:28 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_mace": {
+    "criteria": {
+      "has_req": "2025-07-20 05:54:23 +0000"
     },
     "done": true
   },
@@ -2910,6 +3002,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-20 05:36:33 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/building_blocks/crafting/shapeless/wooden_rod_adv": {
     "criteria": {
       "has_req": "2025-07-19 00:54:15 +0000"
@@ -2955,6 +3053,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-07-19 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/storage/frost_crystal": {
+    "criteria": {
+      "has_req": "2025-07-20 17:21:49 +0000"
     },
     "done": true
   },
