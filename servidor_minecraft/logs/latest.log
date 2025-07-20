@@ -312,3 +312,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [20Jul2025 03:48:21.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [20Jul2025 03:48:21.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [20Jul2025 03:48:23.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:48:39.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:48:55.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Jul2025 03:49:15.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
+[20Jul2025 03:49:20.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:49:35.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[20Jul2025 03:51:14.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ancient Spirit
+[20Jul2025 03:51:37.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ancient Spirit
+[20Jul2025 03:51:54.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ancient Spirit
+[20Jul2025 03:51:56.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:52:14.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ancient Spirit
+[20Jul2025 03:52:27.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ancient Spirit
+[20Jul2025 03:52:54.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ancient Spirit
+[20Jul2025 03:52:56.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:54:33.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> 1300 - 90 - 590
+[20Jul2025 03:55:56.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:55:56.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:55:56.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:55:56.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:57:26.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[20Jul2025 03:57:26.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[20Jul2025 04:00:10.627] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b23442e
+[20Jul2025 04:00:10.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:34809] logged in with entity id 51073 at (2454.183878369539, 70.24918707874468, 7425.024542295629)
+[20Jul2025 04:00:10.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[20Jul2025 04:04:29.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2469 65 7436
+[20Jul2025 04:13:31.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2478, y=69, z=7402} BlockPos{x=2476, y=67, z=7404}

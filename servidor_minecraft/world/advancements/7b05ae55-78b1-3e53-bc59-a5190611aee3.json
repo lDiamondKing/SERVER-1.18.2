@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_pickaxe": {
     "criteria": {
       "has_req": "2025-07-19 00:51:55 +0000"
@@ -104,6 +116,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-19 05:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -194,6 +212,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_bow_base": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -422,6 +446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-07-19 02:11:11 +0000"
@@ -455,6 +485,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-19 01:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -500,6 +542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-20 02:53:42 +0000"
@@ -521,6 +569,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-19 02:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -728,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-20 03:34:06 +0000"
@@ -815,6 +875,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 02:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -1121,6 +1187,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-19 01:41:33 +0000"
@@ -1187,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-19 01:41:33 +0000"
@@ -1196,6 +1274,12 @@
   "supplementaries:recipes/sign_post_minecraft/oak": {
     "criteria": {
       "has_plank": "2025-07-19 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -1421,6 +1505,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-19 01:53:00 +0000"
@@ -1508,6 +1604,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-07-19 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
     },
     "done": true
   },
@@ -1655,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-07-20 04:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-19 02:01:59 +0000"
@@ -1759,6 +1867,7 @@
       "minecraft:deep_cold_ocean": "2025-07-19 05:01:46 +0000",
       "minecraft:windswept_forest": "2025-07-20 03:14:57 +0000",
       "minecraft:ocean": "2025-07-19 00:54:16 +0000",
+      "minecraft:jungle": "2025-07-20 03:59:31 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-20 03:03:52 +0000",
       "minecraft:snowy_beach": "2025-07-20 03:12:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 01:00:53 +0000",
