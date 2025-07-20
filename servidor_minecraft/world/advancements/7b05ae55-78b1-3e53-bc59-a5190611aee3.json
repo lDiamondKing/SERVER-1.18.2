@@ -269,6 +269,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
+    "criteria": {
+      "has_req": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-19 02:26:28 +0000"
@@ -313,11 +325,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-20 02:59:49 +0000",
       "cooked_mutton": "2025-07-19 01:45:47 +0000",
+      "sweet_berries": "2025-07-20 03:16:19 +0000",
       "cooked_beef": "2025-07-19 04:40:24 +0000",
+      "mutton": "2025-07-20 02:54:48 +0000",
       "bread": "2025-07-19 01:42:01 +0000",
       "rotten_flesh": "2025-07-19 01:43:12 +0000",
       "cooked_chicken": "2025-07-19 01:05:58 +0000",
+      "cod": "2025-07-20 03:10:05 +0000",
       "cooked_salmon": "2025-07-20 02:50:46 +0000"
     },
     "done": false
@@ -346,6 +362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-20 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
@@ -355,6 +377,12 @@
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-19 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-20 03:05:40 +0000"
     },
     "done": true
   },
@@ -700,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 01:57:44 +0000"
@@ -884,6 +918,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-19 00:53:31 +0000",
       "minecraft:spider": "2025-07-19 03:41:33 +0000",
+      "minecraft:enderman": "2025-07-20 03:11:39 +0000",
       "minecraft:zombie": "2025-07-19 00:54:57 +0000"
     },
     "done": false
@@ -1092,6 +1127,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-19 00:54:18 +0000"
@@ -1107,6 +1148,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_bow_alt": {
     "criteria": {
       "has_req": "2025-07-20 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-20 03:10:02 +0000"
     },
     "done": true
   },
@@ -1134,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-20 02:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-19 01:41:33 +0000"
@@ -1146,9 +1199,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-20 03:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-07-19 01:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-20 02:55:32 +0000"
     },
     "done": true
   },
@@ -1302,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-20 03:34:03 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 00:51:55 +0000"
@@ -1329,6 +1400,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-20 03:05:40 +0000"
     },
     "done": true
   },
@@ -1362,6 +1439,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
+    "criteria": {
+      "has_req": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
@@ -1377,6 +1460,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_boots": {
     "criteria": {
       "has_req": "2025-07-19 01:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-20 03:05:40 +0000"
     },
     "done": true
   },
@@ -1512,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-20 02:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 01:41:33 +0000"
@@ -1527,6 +1622,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-19 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-20 03:34:06 +0000"
     },
     "done": true
   },
@@ -1640,18 +1741,28 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-20 03:08:43 +0000",
       "minecraft:taiga": "2025-07-19 03:32:06 +0000",
+      "minecraft:frozen_river": "2025-07-20 03:02:34 +0000",
       "minecraft:birch_forest": "2025-07-19 00:57:17 +0000",
+      "minecraft:windswept_hills": "2025-07-20 03:12:53 +0000",
       "minecraft:beach": "2025-07-19 00:49:08 +0000",
       "minecraft:dark_forest": "2025-07-19 01:01:10 +0000",
+      "minecraft:sparse_jungle": "2025-07-20 03:43:20 +0000",
       "minecraft:river": "2025-07-19 01:15:48 +0000",
       "minecraft:stony_shore": "2025-07-19 02:39:47 +0000",
+      "minecraft:snowy_taiga": "2025-07-20 03:02:31 +0000",
+      "minecraft:swamp": "2025-07-20 03:14:34 +0000",
       "minecraft:cold_ocean": "2025-07-19 03:30:40 +0000",
       "minecraft:forest": "2025-07-19 00:49:25 +0000",
       "minecraft:lush_caves": "2025-07-19 03:23:45 +0000",
       "minecraft:deep_cold_ocean": "2025-07-19 05:01:46 +0000",
+      "minecraft:windswept_forest": "2025-07-20 03:14:57 +0000",
       "minecraft:ocean": "2025-07-19 00:54:16 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-20 03:03:52 +0000",
+      "minecraft:snowy_beach": "2025-07-20 03:12:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 01:00:53 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-20 03:12:55 +0000",
       "minecraft:plains": "2025-07-19 02:37:19 +0000"
     },
     "done": false
@@ -1812,6 +1923,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-19 00:54:18 +0000"
@@ -1890,6 +2007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-20 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 02:01:52 +0000"
@@ -1929,6 +2052,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-20 02:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-20 03:34:03 +0000"
     },
     "done": true
   },

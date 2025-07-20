@@ -173,3 +173,142 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [20Jul2025 02:50:47.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dificultily easy<--[HERE]
 [20Jul2025 02:50:58.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
 [20Jul2025 02:51:05.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The difficulty has been set to Easy
+[20Jul2025 03:02:34.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 5.062508527451882,0.0,-8.8971717404213
+[20Jul2025 03:03:40.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 6.2773330292707215,-0.2277792520400368,-8.195685923601673
+[20Jul2025 03:04:17.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20Jul2025 03:08:41.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Jul2025 03:08:41.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b<--[HERE]
+[20Jul2025 03:09:54.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Jul2025 03:09:54.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: msg putas<--[HERE]
+[20Jul2025 03:09:58.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[20Jul2025 03:09:58.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
+[20Jul2025 03:09:58.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[20Jul2025 03:09:58.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
+[20Jul2025 03:09:58.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[20Jul2025 03:09:58.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[20Jul2025 03:09:58.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
+[20Jul2025 03:09:58.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
+[20Jul2025 03:09:58.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
+[20Jul2025 03:09:58.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[20Jul2025 03:09:58.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
+[20Jul2025 03:09:58.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[20Jul2025 03:09:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[20Jul2025 03:09:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[20Jul2025 03:09:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
+[20Jul2025 03:09:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[20Jul2025 03:09:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[20Jul2025 03:09:58.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
+[20Jul2025 03:09:58.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[20Jul2025 03:09:58.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
+[20Jul2025 03:09:58.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[20Jul2025 03:09:58.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
+[20Jul2025 03:09:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[20Jul2025 03:09:58.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
+[20Jul2025 03:09:58.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[20Jul2025 03:09:58.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[20Jul2025 03:09:58.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[20Jul2025 03:09:58.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[20Jul2025 03:09:58.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
+[20Jul2025 03:09:58.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[20Jul2025 03:09:58.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[20Jul2025 03:09:58.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[20Jul2025 03:09:58.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[20Jul2025 03:09:58.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
+[20Jul2025 03:09:58.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[20Jul2025 03:09:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[20Jul2025 03:09:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[20Jul2025 03:09:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[20Jul2025 03:09:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[20Jul2025 03:09:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[20Jul2025 03:09:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[20Jul2025 03:09:58.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[20Jul2025 03:09:58.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[20Jul2025 03:09:58.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
+[20Jul2025 03:09:58.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
+[20Jul2025 03:09:58.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[20Jul2025 03:09:58.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[20Jul2025 03:09:58.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
+[20Jul2025 03:09:58.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[20Jul2025 03:09:58.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[20Jul2025 03:09:58.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
+[20Jul2025 03:09:58.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[20Jul2025 03:09:58.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[20Jul2025 03:09:58.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[20Jul2025 03:09:58.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
+[20Jul2025 03:09:58.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
+[20Jul2025 03:09:58.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[20Jul2025 03:09:58.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
+[20Jul2025 03:09:58.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[20Jul2025 03:09:58.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[20Jul2025 03:09:58.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[20Jul2025 03:09:58.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[20Jul2025 03:09:58.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[20Jul2025 03:09:58.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
+[20Jul2025 03:09:58.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[20Jul2025 03:09:58.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[20Jul2025 03:09:58.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /armorplus (discord|info|nodecraft|wiki|support)
+[20Jul2025 03:09:58.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /supplementaries (globe|reload|configured|roll|cage|record)
+[20Jul2025 03:09:58.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tconstruct (modifiers|tool_stats|slots|modifier_usage)
+[20Jul2025 03:09:58.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /witherstormmod (phase|consumedEntities|cluster|chunks|evolutionSpeed|sickness|explode|revive|bowels|distractions|ultimateTarget|config)
+[20Jul2025 03:09:58.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[20Jul2025 03:09:58.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mantle (view_tag|dump_tag|dump_loot_modifiers|dump_all_tags|tags_for|harvest_tiers|tag_preference)
+[20Jul2025 03:11:36.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] putas de mrd
+[20Jul2025 03:11:47.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] los hackeare a todos
+[20Jul2025 03:11:57.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] cerrare el server
+[20Jul2025 03:12:55.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 10.109951629207444,-0.17675927506424216,-2.28571383147505
+[20Jul2025 03:13:26.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] stiven es puta?
+[20Jul2025 03:13:28.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] si
+[20Jul2025 03:13:37.452] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c21edf0
+[20Jul2025 03:13:37.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:52723] logged in with entity id 8991 at (825.3418966847521, 69.7531999805212, 5144.872648628659)
+[20Jul2025 03:13:37.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[20Jul2025 03:15:53.379] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3609, y=46, z=-1239} but found not block entity block Block{minecraft:water}[level=8] at location
+[20Jul2025 03:15:53.386] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=3609, y=46, z=-1239}
+[20Jul2025 03:15:57.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Mine? Mine? Mine?]
+[20Jul2025 03:20:01.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[20Jul2025 03:20:28.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Earthslime Island]
+[20Jul2025 03:20:46.036] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:21:12.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:21:12.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:21:40.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:21:59.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:22:04.834] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:22:05.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:22:05.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:22:19.530] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:22:44.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[20Jul2025 03:22:44.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[20Jul2025 03:24:05.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11f0455b
+[20Jul2025 03:24:05.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:37217] logged in with entity id 21456 at (4611.2903728332385, 64.0, -1444.8785814501182)
+[20Jul2025 03:24:05.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[20Jul2025 03:24:23.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Best Friends Forever]
+[20Jul2025 03:24:41.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:24:41.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:25:40.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -1.5915476913187376,0.0,10.028851774831537
+[20Jul2025 03:27:09.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Jul2025 03:27:53.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -9.925021446938558,-1.7531999805212024,-1.3673892790584432
+[20Jul2025 03:27:53.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[20Jul2025 03:28:28.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -4.689462351749171,-1.8787031594607981,-8.823563498543308
+[20Jul2025 03:28:28.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -9.439308956345826,-3.0784000015258783,1.8367683298247357
+[20Jul2025 03:28:28.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[20Jul2025 03:34:06.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Ice Bucket Challenge]
+[20Jul2025 03:35:08.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 was slain by Ice Dragon
+[20Jul2025 03:35:15.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2938ms or 58 ticks behind
+[20Jul2025 03:42:40.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[20Jul2025 03:43:02.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Jul2025 03:43:52.304] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Jul2025 03:44:44.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Jul2025 03:48:21.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:48:21.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[20Jul2025 03:48:23.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
