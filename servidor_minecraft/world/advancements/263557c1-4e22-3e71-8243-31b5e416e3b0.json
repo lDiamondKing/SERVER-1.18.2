@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-20 17:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:09:37 +0000"
@@ -1299,6 +1305,7 @@
       "minecraft:jungle": "2025-07-19 04:10:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-20 02:36:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 01:07:44 +0000",
+      "minecraft:meadow": "2025-07-20 17:31:33 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-20 05:27:22 +0000",
       "minecraft:plains": "2025-07-19 02:07:04 +0000"
     },
