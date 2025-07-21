@@ -371,3 +371,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 23:32:50.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [21Jul2025 23:32:50.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [21Jul2025 23:32:57.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Into Fire]
+[21Jul2025 23:43:35.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was burnt to a crisp whilst fighting Blaze
+[21Jul2025 23:43:35.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DiamondKingX with unique ID travelersbackpack.standard_21.07.2025-23.43.35.dat
+[21Jul2025 23:43:35.357] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 66 Y: 66 Z: 1431
