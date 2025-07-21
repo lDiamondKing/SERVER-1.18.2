@@ -897,3 +897,138 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 06:11:41.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:59893] logged in with entity id 43811 at (1078.699999988079, 68.0, 7926.721711260287)
 [21Jul2025 06:11:41.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [21Jul2025 06:13:03.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Clash of the Titans]
+[21Jul2025 06:17:10.206] [Server thread/INFO] [armorplus/]: Charge at: 27
+[21Jul2025 06:17:10.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Take Aim]
+[21Jul2025 06:17:14.413] [Server thread/INFO] [armorplus/]: Charge at: 37
+[21Jul2025 06:17:16.446] [Server thread/INFO] [armorplus/]: Charge at: 36
+[21Jul2025 06:17:18.347] [Server thread/INFO] [armorplus/]: Charge at: 34
+[21Jul2025 06:17:21.313] [Server thread/INFO] [armorplus/]: Charge at: 28
+[21Jul2025 06:17:25.656] [Server thread/INFO] [armorplus/]: Charge at: 72
+[21Jul2025 06:18:53.712] [Server thread/INFO] [armorplus/]: Charge at: 18
+[21Jul2025 06:18:55.312] [Server thread/INFO] [armorplus/]: Charge at: 19
+[21Jul2025 06:18:58.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.439] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:58.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.142] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.236] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:18:59.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:00.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:01.940] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.135] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ice Dragon
+[21Jul2025 06:19:02.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.839] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:02.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:03.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:03.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:03.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:03.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:19:30.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1056, y=84, z=7788} BlockPos{x=1057, y=85, z=7787}
+[21Jul2025 06:20:19.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[21Jul2025 06:20:19.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[21Jul2025 06:20:28.827] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f43abff
+[21Jul2025 06:20:28.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:56833] logged in with entity id 48356 at (1298.699999988079, 7.0, 635.5805587756294)
+[21Jul2025 06:20:28.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[21Jul2025 06:20:56.612] [Server thread/INFO] [armorplus/]: Charge at: 58
+[21Jul2025 06:20:58.159] [Server thread/INFO] [armorplus/]: Charge at: 27
+[21Jul2025 06:20:59.754] [Server thread/INFO] [armorplus/]: Charge at: 30
+[21Jul2025 06:21:01.260] [Server thread/INFO] [armorplus/]: Charge at: 28
+[21Jul2025 06:21:02.707] [Server thread/INFO] [armorplus/]: Charge at: 25
+[21Jul2025 06:21:04.159] [Server thread/INFO] [armorplus/]: Charge at: 28
+[21Jul2025 06:21:05.661] [Server thread/INFO] [armorplus/]: Charge at: 26
+[21Jul2025 06:21:07.106] [Server thread/INFO] [armorplus/]: Charge at: 27
+[21Jul2025 06:21:14.210] [Server thread/INFO] [armorplus/]: Charge at: 21
+[21Jul2025 06:21:27.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was turned to ice by Ice Dragon
+[21Jul2025 06:22:58.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was frozen by Ice Dragon
+[21Jul2025 06:23:08.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50932, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:08.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50933, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:08.259] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50936, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:08.259] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50934, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:08.259] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50935, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:40.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Ice Dragon
+[21Jul2025 06:23:49.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
+[21Jul2025 06:23:53.895] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50932, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:53.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50933, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:53.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50936, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:53.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50934, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:23:53.897] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50935, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:26:44.702] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50932, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:26:44.702] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50933, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:26:44.703] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50936, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:26:44.703] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50934, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:26:44.703] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50935, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:29:44.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[21Jul2025 06:30:20.101] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:30:50.157] [Server thread/INFO] [armorplus/]: Charge at: 26
+[21Jul2025 06:30:51.909] [Server thread/INFO] [armorplus/]: Charge at: 22
+[21Jul2025 06:30:54.157] [Server thread/INFO] [armorplus/]: Charge at: 25
+[21Jul2025 06:30:56.364] [Server thread/INFO] [armorplus/]: Charge at: 29
+[21Jul2025 06:31:00.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was turned to ice by Ice Dragon
+[21Jul2025 06:31:09.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
+[21Jul2025 06:31:13.059] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50932, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:31:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50933, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:31:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50936, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:31:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50934, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:31:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/50935, l='ServerLevel[world]', x=1193.36, y=87.50, z=7845.43, removed=DISCARDED]
+[21Jul2025 06:33:59.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[21Jul2025 06:34:40.073] [Server thread/INFO] [armorplus/]: Charge at: 20
+[21Jul2025 06:34:42.259] [Server thread/INFO] [armorplus/]: Charge at: 16
+[21Jul2025 06:34:48.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was turned to ice by Ice Dragon
+[21Jul2025 06:34:56.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
+[21Jul2025 06:36:26.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[21Jul2025 06:36:53.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Dragonslayer]
+[21Jul2025 06:38:18.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57549, l='ServerLevel[world]', x=1120.30, y=75.00, z=7732.30] died, message: 'Villager was slain by Zombie'
+[21Jul2025 06:45:30.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[21Jul2025 06:45:30.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[21Jul2025 06:46:21.539] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@679172ea
+[21Jul2025 06:46:21.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:52787] logged in with entity id 63003 at (1256.2934796826737, 108.0, 8263.45795734219)
+[21Jul2025 06:46:21.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[21Jul2025 06:46:27.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[21Jul2025 06:46:27.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[21Jul2025 06:46:35.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Jul2025 06:46:45.837] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22a4d22d
+[21Jul2025 06:46:45.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:51717] logged in with entity id 63290 at (1254.7597252277017, 108.5, 8261.687405357075)
+[21Jul2025 06:46:45.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[21Jul2025 06:46:46.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
+[21Jul2025 06:48:02.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[21Jul2025 06:48:22.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 [Bread] to DiamondKingX
+[21Jul2025 06:49:08.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 06:50:27.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48610, l='ServerLevel[world]', x=1200.30, y=-6.84, z=625.31] died, message: 'Villager was slain by Zombie'
+[21Jul2025 06:53:27.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/65586, l='ServerLevel[world]', x=1109.50, y=73.00, z=7708.70] died, message: 'Weaponsmith was slain by Zombie'
+[21Jul2025 07:24:51.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/71202, l='ServerLevel[world]', x=2513.10, y=63.50, z=7445.13] died, message: 'Mason was shot by Pillager'
