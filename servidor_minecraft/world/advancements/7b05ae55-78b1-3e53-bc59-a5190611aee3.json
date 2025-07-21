@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 22:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-21 06:05:06 +0000"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-21 22:21:27 +0000"
     },
     "done": true
   },
@@ -751,6 +763,12 @@
   "tconstruct:recipes/tconstruct/general/common/gold_platform": {
     "criteria": {
       "has_gold": "2025-07-20 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/horse": {
+    "criteria": {
+      "has_leather": "2025-07-21 22:17:37 +0000"
     },
     "done": true
   },
@@ -1495,6 +1513,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 22:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-20 21:08:42 +0000"
@@ -1904,6 +1928,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-07-21 22:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-20 04:06:37 +0000"
@@ -2195,6 +2225,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/cake": {
+    "criteria": {
+      "has_egg": "2025-07-21 22:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 02:43:05 +0000"
@@ -2276,6 +2312,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
     "criteria": {
       "has_item": "2025-07-19 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-21 22:18:24 +0000"
     },
     "done": true
   },
@@ -2402,6 +2444,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-20 02:53:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2025-07-21 22:18:00 +0000"
     },
     "done": true
   },
@@ -2588,6 +2636,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-19 01:38:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2025-07-21 22:16:44 +0000"
     },
     "done": true
   },
