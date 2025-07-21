@@ -310,3 +310,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 21:54:21.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
 [21Jul2025 21:54:21.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
 [21Jul2025 22:09:37.525] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19701415[id=<null>,name=PredatorX_2000,properties={},legacy=false] (/127.255.187.82:50647) lost connection: Disconnected
+[21Jul2025 22:16:44.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51aeed98
+[21Jul2025 22:16:44.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:48779] logged in with entity id 10322 at (1338.6573754688663, 46.0, 741.1432199666186)
+[21Jul2025 22:16:44.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[21Jul2025 22:16:49.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 22:18:15.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Rotten to the Core]
