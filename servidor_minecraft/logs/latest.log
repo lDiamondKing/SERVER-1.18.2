@@ -1032,3 +1032,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 06:50:27.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48610, l='ServerLevel[world]', x=1200.30, y=-6.84, z=625.31] died, message: 'Villager was slain by Zombie'
 [21Jul2025 06:53:27.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/65586, l='ServerLevel[world]', x=1109.50, y=73.00, z=7708.70] died, message: 'Weaponsmith was slain by Zombie'
 [21Jul2025 07:24:51.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/71202, l='ServerLevel[world]', x=2513.10, y=63.50, z=7445.13] died, message: 'Mason was shot by Pillager'
+[21Jul2025 07:43:05.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[21Jul2025 07:43:05.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[21Jul2025 07:43:23.437] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b1919bc
+[21Jul2025 07:43:23.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:38021] logged in with entity id 97955 at (2468.5778581723666, 0.0, 7420.203641142871)
+[21Jul2025 07:43:23.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[21Jul2025 07:46:42.595] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e3b446
