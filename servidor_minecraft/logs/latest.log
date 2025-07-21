@@ -170,3 +170,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 05:13:04.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:45541] logged in with entity id 1641 at (1358.801394737938, 46.0, 729.3763622643609)
 [21Jul2025 05:13:04.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
 [21Jul2025 05:13:10.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[21Jul2025 05:14:20.773] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1794a500
+[21Jul2025 05:14:20.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:38561] logged in with entity id 2485 at (2452.8903221883315, 70.00133597911214, 7445.713652360443)
+[21Jul2025 05:14:20.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[21Jul2025 05:14:25.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[21Jul2025 05:14:46.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5666ms or 113 ticks behind
+[21Jul2025 05:14:47.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[21Jul2025 05:14:47.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[21Jul2025 05:19:16.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> maceta
+[21Jul2025 05:27:07.582] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cf97fdf
+[21Jul2025 05:27:07.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:44169] logged in with entity id 9343 at (2453.1734489443943, 69.7531999805212, 7445.417285344248)
+[21Jul2025 05:27:07.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[21Jul2025 05:30:36.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Sea Serpent
