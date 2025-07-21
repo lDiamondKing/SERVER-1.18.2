@@ -182,3 +182,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 05:27:07.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:44169] logged in with entity id 9343 at (2453.1734489443943, 69.7531999805212, 7445.417285344248)
 [21Jul2025 05:27:07.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [21Jul2025 05:30:36.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX was slain by Sea Serpent
+[21Jul2025 05:36:30.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[21Jul2025 05:36:30.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[21Jul2025 05:36:38.785] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4540c7ec
+[21Jul2025 05:36:38.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:34409] logged in with entity id 21025 at (2428.2518305375097, 62.07326432466507, 7075.725007939327)
+[21Jul2025 05:36:38.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[21Jul2025 05:36:48.067] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21571, l='ServerLevel[world]', x=2322.50, y=51.00, z=7133.50]
+[21Jul2025 05:37:20.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22236, l='ServerLevel[world]', x=2309.50, y=49.00, z=7138.50]
+[21Jul2025 05:37:24.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22292, l='ServerLevel[world]', x=2314.50, y=47.00, z=7138.50]
+[21Jul2025 05:41:45.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Sea? Not a Problem]
