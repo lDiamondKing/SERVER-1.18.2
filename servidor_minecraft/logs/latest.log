@@ -328,3 +328,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 22:43:01.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:39097] logged in with entity id 27538 at (1692.7178356230988, 93.0, 9542.212585656956)
 [21Jul2025 22:43:01.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [21Jul2025 22:46:52.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[21Jul2025 22:57:15.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[21Jul2025 22:57:26.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[21Jul2025 22:57:26.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[21Jul2025 22:58:41.391] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ddc1b3
+[21Jul2025 22:58:41.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:48917] logged in with entity id 40138 at (1669.1185755962726, 64.0, 872.763706975203)
+[21Jul2025 22:58:41.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[21Jul2025 23:01:05.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[21Jul2025 23:01:05.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[21Jul2025 23:01:07.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already

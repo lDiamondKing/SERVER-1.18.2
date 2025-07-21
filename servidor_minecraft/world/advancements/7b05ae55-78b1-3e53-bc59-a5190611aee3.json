@@ -880,6 +880,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-21 22:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-21 22:32:10 +0000"
@@ -2483,6 +2489,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond": {
+    "criteria": {
+      "has_diamond": "2025-07-21 22:52:19 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_helmet": {
     "criteria": {
       "has_req": "2025-07-19 01:02:45 +0000"
@@ -2501,15 +2513,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-21 22:32:10 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/travelersbackpack/chicken": {
     "criteria": {
       "has_feather": "2025-07-21 22:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-21 22:32:10 +0000"
     },
     "done": true
   },
