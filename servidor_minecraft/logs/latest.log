@@ -337,3 +337,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [21Jul2025 23:01:05.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [21Jul2025 23:01:05.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [21Jul2025 23:01:07.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[21Jul2025 23:03:11.761] [Worker-Main-72/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom-200 below top]
+[21Jul2025 23:08:12.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[21Jul2025 23:08:12.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[21Jul2025 23:08:12.648] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jul2025 23:08:29.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a617ed4
+[21Jul2025 23:08:29.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:50067] logged in with entity id 46738 at (1326.8252510382633, 46.9375, 742.171120633179)
+[21Jul2025 23:08:29.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[21Jul2025 23:09:00.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[21Jul2025 23:09:00.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[21Jul2025 23:10:40.532] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6672e04c
+[21Jul2025 23:10:40.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:59155] logged in with entity id 48046 at (1330.915193139645, 46.9375, 740.0414595403909)
+[21Jul2025 23:10:40.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[21Jul2025 23:12:10.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[21Jul2025 23:12:10.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[21Jul2025 23:15:34.330] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ffe299f
+[21Jul2025 23:15:34.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:50249] logged in with entity id 49976 at (1343.3440826257925, 46.0, 739.8544191885516)
+[21Jul2025 23:15:34.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[21Jul2025 23:21:03.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
