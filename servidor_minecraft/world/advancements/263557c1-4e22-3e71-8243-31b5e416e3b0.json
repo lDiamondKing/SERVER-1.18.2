@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-07-21 23:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-19 06:05:10 +0000"
@@ -451,6 +457,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-07-21 23:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 06:44:27 +0000"
@@ -658,6 +670,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_mace_alt": {
     "criteria": {
       "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_leggings_base": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
     },
     "done": true
   },
@@ -1055,7 +1073,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-20 19:52:05 +0000",
       "minecraft:nether_wastes": "2025-07-20 19:49:27 +0000",
-      "minecraft:soul_sand_valley": "2025-07-21 02:08:36 +0000"
+      "minecraft:soul_sand_valley": "2025-07-21 02:08:36 +0000",
+      "minecraft:basalt_deltas": "2025-07-21 23:36:20 +0000"
     },
     "done": false
   },
@@ -1743,6 +1762,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_helmet_base_alt": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_mace_alt": {
     "criteria": {
       "has_req": "2025-07-20 05:54:23 +0000"
@@ -2079,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-21 23:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-19 06:15:36 +0000"
@@ -2088,6 +2119,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-19 02:23:41 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base_alt": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
     },
     "done": true
   },
@@ -2475,6 +2512,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_helmet_base": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-19 02:06:33 +0000"
@@ -2484,6 +2527,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_mace": {
     "criteria": {
       "has_req": "2025-07-20 05:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 23:29:08 +0000"
     },
     "done": true
   },
@@ -2813,13 +2862,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-21 23:32:56 +0000",
       "minecraft:skeleton": "2025-07-19 01:35:44 +0000",
       "minecraft:ghast": "2025-07-21 23:06:41 +0000",
+      "minecraft:hoglin": "2025-07-21 23:22:16 +0000",
       "minecraft:magma_cube": "2025-07-21 02:14:42 +0000",
       "minecraft:spider": "2025-07-19 06:10:39 +0000",
       "minecraft:creeper": "2025-07-19 01:14:36 +0000",
       "minecraft:zombified_piglin": "2025-07-21 02:37:38 +0000",
       "minecraft:witch": "2025-07-19 01:44:43 +0000",
+      "minecraft:wither_skeleton": "2025-07-21 23:30:54 +0000",
       "minecraft:piglin": "2025-07-21 02:36:11 +0000",
       "minecraft:enderman": "2025-07-21 02:44:19 +0000",
       "minecraft:zombie": "2025-07-19 01:10:55 +0000",
@@ -2956,6 +3008,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base_alt": {
     "criteria": {
       "has_req": "2025-07-19 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-21 23:32:57 +0000"
     },
     "done": true
   },
@@ -3328,6 +3386,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-07-19 01:10:55 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_chestplate_base": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
     },
     "done": true
   },
@@ -3835,6 +3899,12 @@
     },
     "done": false
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_boots_base": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-07-21 06:13:03 +0000"
@@ -4024,6 +4094,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_mace": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 23:29:08 +0000"
     },
     "done": true
   },
@@ -4369,6 +4445,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-21 23:26:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/copper_platform": {
     "criteria": {
       "has_bars": "2025-07-19 01:50:17 +0000"
@@ -4564,6 +4646,18 @@
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence": {
     "criteria": {
       "has_planks": "2025-07-19 02:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-21 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_arrow": {
+    "criteria": {
+      "has_req": "2025-07-21 23:30:56 +0000"
     },
     "done": true
   },
@@ -4783,9 +4877,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-21 23:32:57 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_bow_alt": {
     "criteria": {
       "has_req": "2025-07-19 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 23:29:08 +0000"
     },
     "done": true
   },
