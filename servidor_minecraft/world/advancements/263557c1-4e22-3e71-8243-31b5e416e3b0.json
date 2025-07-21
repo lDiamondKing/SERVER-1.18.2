@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 21:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 06:44:27 +0000"
@@ -482,6 +488,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-19 00:55:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pink_sleeping_bag": {
+    "criteria": {
+      "has_pink_wool": "2025-07-21 21:35:24 +0000"
     },
     "done": true
   },
@@ -2264,6 +2276,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-21 21:34:43 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 02:32:51 +0000"
@@ -2417,6 +2435,12 @@
   "paraglider:recipes/paraglider/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-07-20 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-07-21 21:35:24 +0000"
     },
     "done": true
   },
@@ -2792,6 +2816,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/infused_lava/infused_lava_helmet": {
     "criteria": {
       "has_req": "2025-07-21 07:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-07-21 21:35:24 +0000"
     },
     "done": true
   },
@@ -3656,6 +3686,12 @@
   "armorplus:recipes/armorplus.items/crafting/shapeless/storage/frost_shard_to_item_adv": {
     "criteria": {
       "has_req": "2025-07-20 18:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-07-21 21:35:24 +0000"
     },
     "done": true
   },
