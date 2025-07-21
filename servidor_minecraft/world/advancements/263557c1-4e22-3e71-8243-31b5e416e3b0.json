@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-07-19 00:52:50 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-19 00:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
     },
     "done": true
   },
@@ -221,6 +233,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-19 00:54:15 +0000"
@@ -242,6 +266,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-19 00:54:22 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/purple_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
     },
     "done": true
   },
@@ -479,6 +509,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/black_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-19 02:10:06 +0000"
@@ -557,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-21 06:11:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_tconstruct/skyroot": {
     "criteria": {
       "has_plank": "2025-07-19 02:32:51 +0000"
@@ -608,6 +650,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-19 02:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-21 06:04:06 +0000"
     },
     "done": true
   },
@@ -853,6 +901,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-19 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-21 06:08:31 +0000"
     },
     "done": true
   },
@@ -1192,6 +1246,18 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/red_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 06:04:06 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-19 00:52:50 +0000"
@@ -1474,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_bow": {
     "criteria": {
       "has_req": "2025-07-19 03:43:45 +0000"
@@ -1654,6 +1726,7 @@
       "minecraft:mushroom_fields": "2025-07-20 03:41:18 +0000",
       "minecraft:taiga": "2025-07-20 02:36:22 +0000",
       "minecraft:deep_ocean": "2025-07-21 05:30:05 +0000",
+      "minecraft:frozen_river": "2025-07-21 06:13:50 +0000",
       "minecraft:birch_forest": "2025-07-19 00:57:16 +0000",
       "minecraft:windswept_hills": "2025-07-20 05:27:17 +0000",
       "minecraft:wooded_badlands": "2025-07-19 06:06:19 +0000",
@@ -1665,6 +1738,7 @@
       "minecraft:lukewarm_ocean": "2025-07-20 02:14:13 +0000",
       "minecraft:stony_shore": "2025-07-19 02:05:04 +0000",
       "minecraft:dripstone_caves": "2025-07-19 06:42:55 +0000",
+      "minecraft:snowy_taiga": "2025-07-21 05:56:06 +0000",
       "minecraft:swamp": "2025-07-20 03:46:58 +0000",
       "minecraft:cold_ocean": "2025-07-19 05:01:30 +0000",
       "minecraft:forest": "2025-07-19 00:52:50 +0000",
@@ -1728,6 +1802,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-21 06:11:48 +0000"
     },
     "done": true
   },
@@ -2129,6 +2209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-20 19:49:26 +0000"
@@ -2315,6 +2401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-19 01:00:17 +0000"
@@ -2443,6 +2535,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-07-21 06:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-07-19 00:57:09 +0000"
@@ -2479,6 +2577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-19 00:58:08 +0000"
@@ -2500,6 +2604,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-20 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-21 06:11:48 +0000"
     },
     "done": true
   },
@@ -2608,6 +2718,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-19 03:23:54 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/white_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
     },
     "done": true
   },
@@ -2803,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-21 06:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-19 01:00:58 +0000"
@@ -2959,6 +3081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_pickaxe": {
     "criteria": {
       "has_req": "2025-07-19 00:54:15 +0000"
@@ -3043,6 +3171,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/blue_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-19 01:08:47 +0000"
@@ -3052,6 +3186,12 @@
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2025-07-19 00:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
     },
     "done": true
   },
@@ -3229,9 +3369,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-20 22:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-21 06:11:48 +0000"
     },
     "done": true
   },
@@ -3271,6 +3423,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/green_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-19 02:51:22 +0000"
@@ -3283,6 +3441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-07-19 01:08:47 +0000"
@@ -3292,6 +3456,12 @@
   "tconstruct:recipes/tconstruct/general/common/copper_platform": {
     "criteria": {
       "has_bars": "2025-07-19 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-21 06:08:31 +0000"
     },
     "done": true
   },
@@ -3385,6 +3555,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-19 01:42:08 +0000"
@@ -3400,6 +3576,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-07-19 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
     },
     "done": true
   },
@@ -3625,6 +3807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-21 06:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-19 03:05:35 +0000"
@@ -3829,6 +4017,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/orange_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 02:46:23 +0000"
@@ -3901,6 +4095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-20 22:57:38 +0000"
@@ -3934,6 +4134,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-19 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/yellow_stone_brick": {
+    "criteria": {
+      "has_req": "2025-07-21 06:08:31 +0000"
     },
     "done": true
   },
