@@ -183,3 +183,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [22Jul2025 18:01:11.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:36373] logged in with entity id 5262 at (3396.14769717659, 65.0, -228.57537480452197)
 [22Jul2025 18:01:11.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
 [22Jul2025 18:01:13.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[22Jul2025 18:01:33.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] Bienvenido al server broca dmaricon
+[22Jul2025 18:03:34.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 9.692099479697845,0.0,-2.76147463633788
+[22Jul2025 18:03:56.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -3.7019361265702173,0.0,9.373891463565315
+[22Jul2025 18:03:57.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[22Jul2025 18:03:57.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[22Jul2025 18:04:02.223] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@512760a7
+[22Jul2025 18:04:02.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:50673] logged in with entity id 7494 at (1359.2271350255478, 46.0, 744.0412068104804)
+[22Jul2025 18:04:02.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[22Jul2025 18:04:09.346] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ed45158
+[22Jul2025 18:04:09.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angelo2046[/127.58.202.33:44323] logged in with entity id 8054 at (1410.548943317226, 64.0, 276.69686616705155)
+[22Jul2025 18:04:09.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 joined the game
+[22Jul2025 18:04:25.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[22Jul2025 18:05:07.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Cover Me with Diamonds]
+[22Jul2025 18:06:13.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 9.680363626831422,0.12160004615783748,-2.855144820876262
+[22Jul2025 18:06:17.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[22Jul2025 18:06:17.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[22Jul2025 18:06:17.595] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jul2025 18:06:35.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f3fd3ba
+[22Jul2025 18:06:35.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:52279] logged in with entity id 10352 at (1371.891406031851, 46.200000047683716, 727.4365775629556)
+[22Jul2025 18:06:35.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[22Jul2025 18:07:05.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[22Jul2025 18:07:05.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[22Jul2025 18:09:11.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Cover Me with Diamonds]
+[22Jul2025 18:09:49.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> [server] Andrew es una puta
+[22Jul2025 18:11:24.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13519, l='ServerLevel[world]', x=1568.50, y=55.00, z=289.50]
