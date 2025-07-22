@@ -379,3 +379,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [22Jul2025 19:43:44.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84713, l='ServerLevel[world]', x=1571.50, y=61.00, z=292.50]
 [22Jul2025 19:43:53.707] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84754, l='ServerLevel[world]', x=1572.50, y=58.00, z=314.50]
 [22Jul2025 19:44:21.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84860, l='ServerLevel[world]', x=1576.50, y=57.00, z=292.50]
+[22Jul2025 20:01:34.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 is bleeding. angelo2046 was slain by Phantom
+[22Jul2025 20:02:34.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: angelo2046 was slain by Phantom
+[22Jul2025 20:04:36.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[22Jul2025 20:04:36.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[22Jul2025 20:21:31.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/97487, l='ServerLevel[world]', x=1573.50, y=57.00, z=311.50]
+[22Jul2025 20:23:45.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/98182, l='ServerLevel[world]', x=1569.50, y=59.00, z=296.50]
