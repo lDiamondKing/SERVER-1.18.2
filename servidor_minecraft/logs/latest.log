@@ -208,3 +208,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [22Jul2025 18:09:11.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki has made the advancement [Cover Me with Diamonds]
 [22Jul2025 18:09:49.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> [server] Andrew es una puta
 [22Jul2025 18:11:24.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13519, l='ServerLevel[world]', x=1568.50, y=55.00, z=289.50]
+[22Jul2025 18:15:04.332] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom-200 below top]
+[22Jul2025 18:20:10.332] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@576deb00
+[22Jul2025 18:20:10.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:40649] logged in with entity id 19243 at (1365.9300679469331, 46.0, 729.657240389863)
+[22Jul2025 18:20:10.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[22Jul2025 18:21:13.559] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21014, l='ServerLevel[world]', x=1571.50, y=57.00, z=308.50]
+[22Jul2025 18:22:04.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21847, l='ServerLevel[world]', x=1576.50, y=62.00, z=297.50]
+[22Jul2025 18:22:13.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21941, l='ServerLevel[world]', x=1575.50, y=49.00, z=295.50]

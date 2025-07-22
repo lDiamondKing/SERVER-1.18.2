@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-22 18:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-19 03:41:13 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
+    "criteria": {
+      "has_bone": "2025-07-22 18:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-19 03:40:29 +0000"
@@ -185,9 +197,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-22 18:12:17 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shapeless/wooden_rod_adv": {
     "criteria": {
       "has_req": "2025-07-19 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-22 18:11:32 +0000"
     },
     "done": true
   },
@@ -200,6 +224,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 03:47:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-22 18:11:32 +0000"
     },
     "done": true
   },
@@ -384,6 +414,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_arrow": {
+    "criteria": {
+      "has_req": "2025-07-22 18:11:32 +0000"
+    },
+    "done": true
+  },
   "armorplus:story/thank_you_6m": {
     "criteria": {
       "open_inventory": "2025-07-19 03:39:48 +0000"
@@ -393,6 +429,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-07-19 03:48:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-22 18:11:45 +0000"
     },
     "done": true
   },
@@ -608,6 +650,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-22 18:11:45 +0000",
       "minecraft:zombie": "2025-07-19 03:41:32 +0000"
     },
     "done": false
@@ -714,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-22 18:12:46 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-07-19 04:13:08 +0000"
@@ -789,6 +838,12 @@
   "alexsmobs:recipes/misc/animal_dictionary": {
     "criteria": {
       "has_items": "2025-07-19 03:56:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-22 18:12:46 +0000"
     },
     "done": true
   },
@@ -951,6 +1006,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 03:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-22 18:12:17 +0000"
     },
     "done": true
   },
@@ -1151,6 +1212,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
+    "criteria": {
+      "has_req": "2025-07-22 18:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-19 03:41:13 +0000"
@@ -1268,6 +1335,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-22 18:12:46 +0000"
     },
     "done": true
   },
