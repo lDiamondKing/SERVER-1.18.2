@@ -4163,3 +4163,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [22Jul2025 19:42:59.357] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84571, l='ServerLevel[world]', x=1575.50, y=51.00, z=290.50]
 [22Jul2025 19:43:05.607] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84587, l='ServerLevel[world]', x=1576.50, y=51.00, z=293.50]
 [22Jul2025 19:43:44.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84713, l='ServerLevel[world]', x=1571.50, y=61.00, z=292.50]
+[22Jul2025 19:43:53.707] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84754, l='ServerLevel[world]', x=1572.50, y=58.00, z=314.50]
+[22Jul2025 19:43:58.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 19:43:58.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 19:44:21.107] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/84860, l='ServerLevel[world]', x=1576.50, y=57.00, z=292.50]
+[22Jul2025 19:48:58.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 19:48:58.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
