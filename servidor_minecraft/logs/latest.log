@@ -367,3 +367,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [22Jul2025 19:14:15.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
 [22Jul2025 19:14:15.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
 [22Jul2025 19:19:16.007] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/78942, l='ServerLevel[world]', x=1571.50, y=58.00, z=310.50]
+[22Jul2025 19:25:35.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/80436, l='ServerLevel[world]', x=1575.50, y=60.00, z=289.50]
