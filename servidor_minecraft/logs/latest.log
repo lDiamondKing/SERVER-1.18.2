@@ -12,3 +12,5 @@
 [22Jul2025 00:15:47.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
 [22Jul2025 00:15:50.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
 [22Jul2025 00:27:55.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Stay Out of my Peripheral!]
+[22Jul2025 00:46:06.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Beeswax Ninja]
+[22Jul2025 00:51:20.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -0.6818542838125268,0.12160004615783748,-10.332791863350849
