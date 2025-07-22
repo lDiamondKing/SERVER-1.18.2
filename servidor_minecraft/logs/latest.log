@@ -14,3 +14,22 @@
 [22Jul2025 00:27:55.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Stay Out of my Peripheral!]
 [22Jul2025 00:46:06.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Beeswax Ninja]
 [22Jul2025 00:51:20.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -0.6818542838125268,0.12160004615783748,-10.332791863350849
+[22Jul2025 01:07:52.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[22Jul2025 01:07:52.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[22Jul2025 01:08:08.732] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59d19f90
+[22Jul2025 01:08:08.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:33287] logged in with entity id 119647 at (1334.4448862889785, 46.0, 726.7514436881826)
+[22Jul2025 01:08:08.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[22Jul2025 01:09:53.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[22Jul2025 01:09:53.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[22Jul2025 01:10:42.175] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7ec8ab96[id=<null>,name=PredatorX_2000,properties={},legacy=false] (/127.255.187.82:59201): Took too long to log in
+[22Jul2025 01:10:42.178] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ec8ab96[id=<null>,name=PredatorX_2000,properties={},legacy=false] (/127.255.187.82:59201) lost connection: Took too long to log in
+[22Jul2025 01:10:42.227] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jul2025 01:11:58.688] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61b671a7
+[22Jul2025 01:11:58.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:41821] logged in with entity id 121221 at (1366.0654452485683, 46.0, 726.9875000119209)
+[22Jul2025 01:11:58.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[22Jul2025 01:12:02.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[22Jul2025 01:12:02.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[22Jul2025 01:12:02.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[22Jul2025 01:12:08.396] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d4d2819
+[22Jul2025 01:12:08.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:40707] logged in with entity id 121833 at (574.3648276268447, 39.0, 1899.8742456603654)
+[22Jul2025 01:12:08.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
