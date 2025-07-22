@@ -4819,6 +4819,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-07-22 04:53:43 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_battle_axe_base": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"
