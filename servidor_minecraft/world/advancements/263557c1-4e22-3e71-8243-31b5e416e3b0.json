@@ -239,15 +239,15 @@
     },
     "done": true
   },
-  "alexsmobs:recipes/misc/mosquito_larva": {
-    "criteria": {
-      "has_items": "2025-07-22 00:07:52 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
     "criteria": {
       "has_bone": "2025-07-21 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/mosquito_larva": {
+    "criteria": {
+      "has_items": "2025-07-22 00:07:52 +0000"
     },
     "done": true
   },
