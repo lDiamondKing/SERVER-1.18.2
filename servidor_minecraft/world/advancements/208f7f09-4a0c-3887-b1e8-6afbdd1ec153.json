@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 18:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-20 22:29:41 +0000"
@@ -299,6 +305,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-22 18:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 03:25:09 +0000"
@@ -386,6 +404,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-07-21 01:27:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-22 18:47:22 +0000"
     },
     "done": true
   },
@@ -617,6 +641,7 @@
       "minecraft:skeleton": "2025-07-19 04:24:37 +0000",
       "minecraft:spider": "2025-07-20 20:53:20 +0000",
       "minecraft:witch": "2025-07-19 04:27:00 +0000",
+      "minecraft:enderman": "2025-07-22 18:31:08 +0000",
       "minecraft:zombie": "2025-07-19 03:21:55 +0000",
       "minecraft:drowned": "2025-07-20 19:50:10 +0000",
       "minecraft:zombie_villager": "2025-07-21 00:33:50 +0000"
@@ -755,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-22 19:12:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-19 03:13:38 +0000"
@@ -806,6 +837,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-07-20 20:50:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/horse": {
+    "criteria": {
+      "has_leather": "2025-07-22 18:37:39 +0000"
     },
     "done": true
   },
@@ -866,6 +903,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-07-19 05:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 18:54:25 +0000"
     },
     "done": true
   },
@@ -947,6 +990,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-07-22 18:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-19 04:12:13 +0000"
@@ -974,6 +1023,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_boots": {
     "criteria": {
       "has_req": "2025-07-20 19:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 18:54:25 +0000"
     },
     "done": true
   },
@@ -1034,6 +1089,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_mace": {
     "criteria": {
       "has_req": "2025-07-21 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-22 19:05:16 +0000"
     },
     "done": true
   },
@@ -1124,6 +1185,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 22:38:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-07-22 18:47:22 +0000"
     },
     "done": true
   },
@@ -1240,8 +1307,10 @@
       "minecraft:deep_cold_ocean": "2025-07-19 05:01:29 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-20 19:50:42 +0000",
       "minecraft:ocean": "2025-07-19 03:29:07 +0000",
+      "minecraft:jungle": "2025-07-22 18:57:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 03:21:15 +0000",
       "minecraft:meadow": "2025-07-20 20:50:11 +0000",
+      "minecraft:savanna": "2025-07-22 18:51:54 +0000",
       "minecraft:plains": "2025-07-19 04:03:11 +0000"
     },
     "done": false
@@ -1255,6 +1324,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-20 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-22 19:05:16 +0000"
     },
     "done": true
   },
@@ -1474,6 +1549,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-22 19:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-19 03:13:25 +0000"
@@ -1510,6 +1591,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-22 18:35:16 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/emerald/emerald_leggings": {
     "criteria": {
       "has_req": "2025-07-21 01:27:46 +0000"
@@ -1519,6 +1606,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-19 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-22 19:08:58 +0000"
     },
     "done": true
   },
@@ -1549,6 +1642,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-20 22:29:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-07-22 18:59:51 +0000"
     },
     "done": true
   },
@@ -1621,6 +1720,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-20 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
+    "criteria": {
+      "has_bone": "2025-07-22 18:47:21 +0000"
     },
     "done": true
   },
@@ -1714,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-22 18:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-07-20 20:50:53 +0000"
@@ -1765,6 +1876,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 05:00:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-22 18:47:22 +0000"
     },
     "done": true
   },
@@ -1941,6 +2058,12 @@
       "has_smooth_stone": "2025-07-19 05:11:34 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-22 18:28:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -2146,6 +2269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-22 18:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-19 04:37:52 +0000"
@@ -2191,6 +2320,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-19 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-22 19:12:51 +0000"
     },
     "done": true
   },
@@ -2248,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-22 19:12:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-20 20:50:53 +0000"
@@ -2287,6 +2428,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
     "criteria": {
       "has_item": "2025-07-19 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-22 18:43:41 +0000"
     },
     "done": true
   },
@@ -2632,6 +2779,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2025-07-22 18:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-19 03:13:00 +0000"
@@ -2665,6 +2818,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-19 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-07-22 18:47:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-22 18:43:41 +0000"
     },
     "done": true
   },
@@ -2794,6 +2959,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-22 18:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-20 23:10:46 +0000"
@@ -2833,6 +3004,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-20 22:25:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-22 18:43:41 +0000"
     },
     "done": true
   },
@@ -2935,6 +3112,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-20 22:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-22 18:28:35 +0000"
     },
     "done": true
   },

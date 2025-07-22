@@ -1877,6 +1877,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond": {
+    "criteria": {
+      "has_diamond": "2025-07-22 18:23:21 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_mace_alt": {
     "criteria": {
       "has_req": "2025-07-20 05:54:23 +0000"
@@ -1955,6 +1961,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/slime/ichor/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-07-22 18:36:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/oak": {
     "criteria": {
       "has_plank": "2025-07-19 00:54:22 +0000"
@@ -1982,6 +1994,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-21 06:04:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-22 18:56:18 +0000"
     },
     "done": true
   },
@@ -3271,6 +3289,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-22 18:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-07-19 02:25:56 +0000"
@@ -3948,6 +3972,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-19 02:10:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/ichor/crystal_block": {
+    "criteria": {
+      "has_item": "2025-07-22 18:36:35 +0000"
     },
     "done": true
   },

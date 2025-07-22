@@ -191,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-22 18:36:58 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_helmet_alt": {
     "criteria": {
       "has_req": "2025-07-19 03:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-22 18:43:51 +0000"
     },
     "done": true
   },
@@ -206,6 +218,12 @@
   "armorplus:recipes/armorplus.items/crafting/shapeless/wooden_rod_adv": {
     "criteria": {
       "has_req": "2025-07-19 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-07-22 18:43:51 +0000"
     },
     "done": true
   },
@@ -261,6 +279,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-19 03:41:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-22 18:19:11 +0000"
     },
     "done": true
   },
@@ -369,6 +393,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-19 03:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-22 18:43:51 +0000"
     },
     "done": true
   },
@@ -651,6 +681,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-22 18:11:45 +0000",
+      "minecraft:creeper": "2025-07-22 18:43:50 +0000",
       "minecraft:zombie": "2025-07-19 03:41:32 +0000"
     },
     "done": false
@@ -700,6 +731,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 03:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-22 18:30:25 +0000"
     },
     "done": true
   },
@@ -874,6 +911,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
     "criteria": {
       "has_item": "2025-07-19 03:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-22 18:37:02 +0000"
     },
     "done": true
   },
@@ -1105,6 +1148,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-07-22 18:19:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-07-22 18:19:11 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_leggings": {
     "criteria": {
       "has_req": "2025-07-19 03:55:48 +0000"
@@ -1185,6 +1240,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-07-22 18:49:18 +0000",
       "minecraft:beach": "2025-07-19 03:40:39 +0000",
       "minecraft:river": "2025-07-19 03:42:50 +0000",
       "minecraft:stony_shore": "2025-07-19 03:54:35 +0000",
@@ -1245,6 +1301,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-19 03:41:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-22 18:19:11 +0000"
     },
     "done": true
   },
@@ -1425,6 +1487,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-19 03:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-22 18:36:58 +0000"
     },
     "done": true
   },
