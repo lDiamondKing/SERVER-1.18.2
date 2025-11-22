@@ -1,0 +1,2 @@
+/craft by placing lucky block in X-pattern emeralds and lime dye around
+ede,dld,ede,e,emerald,l,lucky:lucky_block,d,dye:10
