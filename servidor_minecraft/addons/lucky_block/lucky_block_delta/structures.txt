@@ -1,0 +1,7 @@
+/ traps
+ID=anvil_trap,file=traps/anvil_trap.schematic,centerY=1,centerZ=2
+ID=lava_trap,file=traps/lava_trap.schematic,centerY=1
+ID=water_trap,file=traps/water_trap.schematic,centerY=1
+ID=pit_trap,file=traps/pit_trap.schematic,centerY=19
+
+ID=wishing_well,file=other/wishing_well.schematic,centerY=2
